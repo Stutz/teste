@@ -1,5 +1,5 @@
 function Home(){
-    return <div>Home 17/fev/2021</div>
+    return <div>Home Teste</div>
 }
 
 export default Home
